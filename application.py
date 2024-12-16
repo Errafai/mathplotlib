@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-# Simulation des données COVID-19
+# Simulation des données
 # Remarque : Données simulées uniquement à des fins de démonstration
 np.random.seed(42)
 
